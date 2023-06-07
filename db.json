@@ -1,23 +1,11 @@
 {
-    "movies" : [
-        {
-            "cover": "https://img.flixhq.to/xxrz/1200x600/379/6d/e2/6de2a3c36ddfa834c8c2191be7cc5c69/6de2a3c36ddfa834c8c2191be7cc5c69.jpg",
-            "description": "\n        Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.\n    ",
-            "genres": [
-                "Action",
-                "Adventure",
-                "Science Fiction",
-                "Comedy",
-                "Romance"
-            ],
-            "id": 1,
-            "movieId":1,
-            "image": "https://img.flixhq.to/xxrz/250x400/379/81/6a/816aa6fbf5badbef46170a1d3358c1b6/816aa6fbf5badbef46170a1d3358c1b6.jpg",
-            "releaseDate": "2019-06-28",
-            "title": "Spider-Man: Far from Home",
-            "type": "Movie",
-            "url": "https://flixhq.to/movie/watch-spiderman-far-from-home-17240"
-        }
-        
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
